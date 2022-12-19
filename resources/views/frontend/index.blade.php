@@ -5,8 +5,25 @@
 
 <!--Content start -->
     <main>
-      <p>一些這個網站的講解？（類似使用者手冊</p>
+    <!--  -->
+    <div class="container">
+      <h1> <span class="intro">INTRO</span> </h1>
       <p align="center"><img src="img/goal.jpg" width="512" height="395"></p>
+      <p class="context"> context context context context context context context context
+        context context context context context context context context
+        context context context context context context context context context context context context context context
+        context context context context context context context context
+        context context context context context context context context context context context context context context
+        context context context context context context context context
+        context context context context context context context context context context context context context context
+        context context context context context context context context
+        context context context context context context context context context context context context context context
+        context context context context context context context context
+        context context context context context context context context context context context context context context
+        context context context context context context context context
+        context context context context context context
+      </p>
+      <!--  -->
     </main>
 <!--Content end -->
 @endsection

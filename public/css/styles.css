@@ -1,0 +1,80 @@
+body {
+    background-color: palegreen;
+}
+
+header {
+    color: floralwhite;
+    background-color: darkseagreen;
+    padding: 5px;
+    text-align: center;
+}
+
+nav a {
+    color: inherit;
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav > ul {
+    background-color: forestgreen;
+    list-style: none;
+    margin :0px;
+    padding : 5px;
+}
+
+nav li:hover {
+    color: white;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about {
+    color: floralwhite;
+    background-color: seagreen;
+    padding: 5px;
+    text-align: center;
+}
+
+.team {
+    color: floralwhite;
+    background-color: mediumseagreen;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.team > ul {
+        list-style: none;
+}
+
+.team li {
+        margin: 5px;
+}
+
+.intro {
+    color: floralwhite;
+    background-color: seagreen;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.selection {
+    background-color: seagreen;
+    text-align: center;
+    margin:0px;
+    font-weight: bold;
+}
+
+.graph {
+    align-content: center;
+    background-color: lightgreen;
+    margin: 0px;
+}
+
+.dropdown {
+    margin: 0px;
+}
